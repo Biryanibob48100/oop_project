@@ -1,2 +1,2 @@
 # oop_project
-oop project material
+This repository has all the material for the oop project of the cloud cheetahs. 
